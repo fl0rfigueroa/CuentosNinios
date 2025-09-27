@@ -7,4 +7,28 @@
     android:layout_height="match_parent"
     tools:context=".home">
 
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tvHola"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hola Joaquin"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/tvqueLeer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="¿Qué te gustaría leer hoy?"
+            android:textSize="22sp" />
+    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
