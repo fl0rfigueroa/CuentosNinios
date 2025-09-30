@@ -1,4 +1,6 @@
 package com.example.cuentosnios;
 
-public class BookActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class BookActivity extends AppCompatActivity {
 }
