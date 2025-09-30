@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CuentosNiños</string>
+    <string name="hola_joaquin"> Hola Joaquin</string>
+    <string name="leer_ahora">Leer ahora</string>
+    <string name="cargrando">cargando cuento</string>
+    <string name="titulo_cuento">Blancanieves</string>
+    <string name="texto_cuento">En un lugar muy lejano vivía una hermosa princesa que se llamaba Blancanieves...</string>
 </resources>
