@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CuentosNiños">
         <activity
-            android:name=".LoadingActivity"
+            android:name=".Select_book_activity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
